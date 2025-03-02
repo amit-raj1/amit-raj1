@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there! 👋 I'm Amit Singh  
+🚀 Aspiring Software Developer | Full-Stack Web Developer | Open Source Enthusiast  
 
-<!--
-**amit-raj1/amit-raj1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Tech in Computer Science** – IIIT Manipur (2022-2026)  
+💻 **Tech Stack:** C/C++, JavaScript, React.js, Node.js, MongoDB, MySQL, Next.js  
+🏆 **Experience:** Web-Tech Club Co-Lead | Coding Club Lead | CDAC Intern  
+🔭 **Current Projects:** IIIT Manipur Website Revamp | Tetris Game  
 
-Here are some ideas to get you started:
+### 🌟 Featured Projects  
+- 🎮 **[Tetris Game](https://github.com/your-tetris-repo)** – Built using **C++ & SFML** with smooth animations and leaderboard.  
+- 🌐 **[IIIT Manipur Website Revamp](https://github.com/your-iiitm-website-repo)** – Leading a team to modernize our institute’s website.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 **Let's Connect:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-amit--singh-blue?style=flat&logo=linkedin)](https://linkedin.com/in/amit-singh)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-blue?style=flat)](#)  
+📫 **Email:** your.email@example.com  
