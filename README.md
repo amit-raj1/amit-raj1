@@ -1,16 +1,46 @@
-## Hi there! 👋 I'm Amit Singh  
-🚀 Aspiring Software Developer | Full-Stack Web Developer | Open Source Enthusiast  
+# Hi, I'm Amit Singh! 👋  
+🚀 Full Stack Developer | Open Source Enthusiast | DSA Practitioner  
 
-🎓 **B.Tech in Computer Science** – IIIT Manipur (2022-2026)  
-💻 **Tech Stack:** C/C++, JavaScript, React.js, Node.js, MongoDB, MySQL, Next.js  
-🏆 **Experience:** Web-Tech Club Co-Lead | Coding Club Lead | CDAC Intern  
-🔭 **Current Projects:** IIIT Manipur Website Revamp | Tetris Game  
+![Profile Views](https://komarev.com/ghpvc/?username=amit-raj1&color=blue)  
+![GitHub Followers](https://img.shields.io/github/followers/amit-raj1?style=social)  
 
-### 🌟 Featured Projects  
-- 🎮 **[Tetris Game](https://github.com/your-tetris-repo)** – Built using **C++ & SFML** with smooth animations and leaderboard.  
-- 🌐 **[IIIT Manipur Website Revamp](https://github.com/your-iiitm-website-repo)** – Leading a team to modernize our institute’s website.  
+---
 
-💬 **Let's Connect:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-amit--singh-blue?style=flat&logo=linkedin)](https://linkedin.com/in/amit-singh)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-blue?style=flat)](#)  
-📫 **Email:** your.email@example.com  
+## 🔥 Technologies I Work With  
+
+### 📌 Backend  
+- **Node.js, Express.js** – RESTful APIs & Microservices  
+- **SQL (MySQL), NoSQL (MongoDB)** – Database Design & Optimization  
+
+### 📌 Frontend  
+- **React.js, Next.js** – Modern Web Development  
+- **HTML, CSS, JavaScript** – Responsive & Interactive UI  
+
+---
+
+## 🎯 What I Offer  
+✅ **Backend Development** – Secure & Scalable APIs with best practices  
+✅ **Frontend Development** – Interactive UIs with React & modern frameworks  
+✅ **Database Management** – Optimized SQL/NoSQL schemas for high performance  
+✅ **Full Stack Solutions** – Seamless integration of backend & frontend  
+
+---
+
+## 🚀 My Approach  
+🧩 **Problem-Solving** – Love tackling complex challenges  
+📚 **Continuous Learning** – Keeping up with tech trends & best practices  
+🤝 **Collaboration** – Open-source contributions & teamwork  
+
+---
+
+## 📈 GitHub Stats  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amit-raj1&theme=tokyonight)  
+![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=amit-raj1&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amit-raj1&layout=compact&theme=tokyonight)  
+
+---
+
+## 💬 Let's Connect!  
+🔗 [**LinkedIn**](https://linkedin.com/in/amit-singh)  
+📧 **Email:** your.email@example.com  
+🌍 **Portfolio:** [Coming Soon]  
