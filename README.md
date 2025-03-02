@@ -1,4 +1,4 @@
-# Hi, I'm Amit Singh! 👋  
+# Hi, I'm Amit Raj! 👋  
 🚀 Full Stack Developer | Open Source Enthusiast | DSA Practitioner  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=amit-raj1&color=blue)  
