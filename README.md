@@ -41,6 +41,6 @@
 ---
 
 ## 💬 Let's Connect!  
-🔗 [**LinkedIn**](https://linkedin.com/in/amit-singh)  
-📧 **Email:** your.email@example.com  
+🔗 [**LinkedIn**](https://www.linkedin.com/in/amit-singh-276781268)  
+📧 **Email:** amitrajiiitian@gmail.com.com  
 🌍 **Portfolio:** [Coming Soon]  
