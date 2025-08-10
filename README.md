@@ -16,23 +16,10 @@ I'm a **B.Tech Computer Science student at IIIT Manipur** with a passion for lev
 
 ## 🎯 Core Areas of Interest
 
-📈 **Business Development:**
-- Lead Generation & Opportunity Sourcing
-- Sales Funnel Optimization & CRM Management
-- Client Relationship Building & Onboarding
-- Strategic Partnership & Alliance Formation
-
-📊 **Data Analysis:**
-- KPI Tracking & Performance Reporting
-- A/B Testing Analysis for Product & Marketing
-- Data-driven Storytelling & Visualization
-- Predictive Modeling Concepts & Application
-
-💡 **Market & Corporate Strategy:**
-- Go-to-Market (GTM) & Product Launch Strategy
-- Competitive Landscape & SWOT Analysis
-- Customer Segmentation & Persona Development
-- Financial Modeling, ROI Calculation & Budget Forecasting
+📈 **Business Development:** Building strategic partnerships, identifying new growth opportunities, and fostering client relationships.
+📊 **Data Analysis:** Translating raw data into actionable business insights to inform strategic decisions.
+💡 **Market Strategy:** Analyzing market trends, competitive landscapes, and customer behavior to develop go-to-market plans.
+💰 **Finance & Technology:** Exploring FinTech innovations, financial modeling, and investment strategies.
 
 ---
 
@@ -45,6 +32,13 @@ I'm a **B.Tech Computer Science student at IIIT Manipur** with a passion for lev
 | Business Analysis | Business Intelligence (Tableau, Power BI) | Adaptability |
 | Financial Modeling | Excel (Advanced) & Google Sheets | Critical Thinking |
 | Project Management | CRM (e.g., Salesforce, HubSpot) | Collaboration |
+
+---
+
+## 🚀 My Approach
+🧩 **Analytical Problem-Solving:** Applying a data-driven mindset to deconstruct complex business challenges.
+📚 **Continuous Learning:** Actively keeping up with industry trends in technology, finance, and marketing.
+🤝 **Cross-Functional Collaboration:** Working effectively with both technical and business teams to achieve common goals.
 
 ---
 
