@@ -58,12 +58,18 @@ Here are a few projects where I've applied my skills. *(Note: These are template
 
 ---
 
-## 📊 GitHub & Professional Activity
+## 📊 Digital Footprint & Work Ethic
 
-My GitHub activity reflects my technical foundation and consistent dedication to learning and building.
+My activity on platforms like GitHub offers a transparent look at my technical skills, consistency, and dedication. It's a testament to my commitment to continuous learning and applying what I know.
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=amit-raj1&theme=tokyonight)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amit-raj1&theme=tokyonight)](https://git.io/streak-stats)
-[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=amit-raj1&theme=tokyonight&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+* 🗓️ **Contribution Activity Graph**
+    This graph shows my day-to-day contributions—like code commits and pull requests—over the last year. It's a clear visual of my **consistent engagement** and **long-term dedication** to projects.
+    ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=amit-raj1&theme=tokyonight)
 
----
+* 🔥 **Contribution Streak**
+    This stat highlights my **daily discipline** and work momentum. It tracks the longest streak of consecutive days I've contributed code, which showcases my perseverance and ability to stay engaged.
+    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amit-raj1&theme=tokyonight)](https://git.io/streak-stats)
+
+* 🏆 **GitHub Achievements**
+    This is a collection of milestones awarded for my work. The trophies recognize accomplishments in areas like **code quality**, **collaboration**, and contribution volume, reflecting validation from the developer community.
+    [![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=amit-raj1&theme=tokyonight&row=1)](https://github.com/ryo-ma/github-profile-trophy)
