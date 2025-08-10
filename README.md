@@ -58,22 +58,33 @@ Here are a few projects where I've applied my skills. *(Note: These are template
 
 ---
 
-## 📊 Digital Footprint & Work Ethic
+## 📊 My Professional Dashboard
+A data-driven overview of my coding habits, technical skills, and commitment to the craft.
 
-My activity on platforms like GitHub offers a transparent look at my technical skills, consistency, and dedication. It's a testament to my commitment to continuous learning and applying what I know.
+<p align="center">
+  <a href="https://github.com/amit-raj1">
+    <img src="https://activity-graph.herokuapp.com/graph?username=amit-raj1&theme=tokyonight&hide_border=true&area=true" alt="Amit's GitHub Activity Graph"/>
+  </a>
+</p>
 
-* 🗓️ **Contribution Activity Graph**
-    This graph shows my day-to-day contributions—like code commits and pull requests—over the last year. It's a clear visual of my **consistent engagement** and **long-term dedication** to projects.
-    ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=amit-raj1&theme=tokyonight)
-
-* 🔥 **Contribution Streak**
-    This stat highlights my **daily discipline** and work momentum. It tracks the longest streak of consecutive days I've contributed code, which showcases my perseverance and ability to stay engaged.
-    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amit-raj1&theme=tokyonight)](https://git.io/streak-stats)
-
-* 🏆 **GitHub Achievements**
-    This is a collection of milestones awarded for my work. The trophies recognize accomplishments in areas like **code quality**, **collaboration**, and contribution volume, reflecting validation from the developer community.
-    [![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=amit-raj1&theme=tokyonight&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-* 🗣️ **Top Languages**
-    This card displays a breakdown of the programming languages I use most frequently in my projects. It provides concrete evidence of my **technical proficiency** in key languages for data analysis and web development, such as **Python** and **JavaScript**.
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amit-raj1&layout=compact&theme=tokyonight)
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/amit-raj1">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit-raj1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/amit-raj1">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=amit-raj1&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=amit-raj1&theme=tokyonight&row=1&margin-w=20&margin-h=20" alt="GitHub Trophies"/>
+      </a>
+    </td>
+  </tr>
+</table>
