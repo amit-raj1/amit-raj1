@@ -73,3 +73,7 @@ My activity on platforms like GitHub offers a transparent look at my technical s
 * 🏆 **GitHub Achievements**
     This is a collection of milestones awarded for my work. The trophies recognize accomplishments in areas like **code quality**, **collaboration**, and contribution volume, reflecting validation from the developer community.
     [![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=amit-raj1&theme=tokyonight&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+* 🗣️ **Top Languages**
+    This card displays a breakdown of the programming languages I use most frequently in my projects. It provides concrete evidence of my **technical proficiency** in key languages for data analysis and web development, such as **Python** and **JavaScript**.
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amit-raj1&layout=compact&theme=tokyonight)
