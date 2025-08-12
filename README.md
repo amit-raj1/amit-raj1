@@ -87,24 +87,25 @@ Here are a few projects where I've applied my skills. *(Note: These are template
 A data-driven overview of my coding habits, technical skills, and commitment to the craft.
 
 <p align="center">
-  <a href="https://github.com/amit-raj1">
-    <img src="https://activity-graph.herokuapp.com/graph?username=amit-raj1&theme=tokyonight&hide_border=true&area=true" alt="Amit's GitHub Activity Graph"/>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=amit-raj1&theme=tokyonight&hide_border=true&area=true" alt="Amit's GitHub Activity Graph"/>
   </a>
 </p>
 
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://github.com/amit-raj1">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit-raj1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/amit-raj1">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=amit-raj1&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+      <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+        <img src="https://streak-stats.demolab.com/?user=amit-raj1&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
       </a>
     </td>
   </tr>
+  <tr>
     <td colspan="2" align="center">
       <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=amit-raj1&theme=tokyonight&row=1&margin-w=20&margin-h=20" alt="GitHub Trophies"/>
