@@ -57,28 +57,17 @@ I'm Pursuing **B.Tech** in **Computer Science Engineering at IIIT Manipur** with
 
 ---
 
-## 🛠 Technical & Tools
+## 🔥 My Skillset
 
-| Technical & Tools |
-|-------------------|
-| SQL (MySQL) |
-| Python (Pandas, NumPy) |
-| Business Intelligence (Tableau, Power BI) |
-| Excel (Advanced) & Google Sheets |
-| CRM (e.g., Salesforce, HubSpot) |
-
-
-
-
-## 🚀 My Approach
-🧩 **Analytical Problem-Solving:** Applying a data-driven mindset to deconstruct complex business challenges.
-📚 **Continuous Learning:** Actively keeping up with industry trends in technology, finance, and marketing.
-🤝 **Cross-Functional Collaboration:** Working effectively with both technical and business teams to achieve common goals.
+| Business & Strategy | Technical & Tools | Soft Skills |
+|---|---|---|
+| Market Research | SQL (MySQL) | Leadership |
+| Strategic Planning | Python (Pandas, NumPy) | Public Speaking |
+| Business Analysis | Business Intelligence (Tableau, Power BI) | Adaptability |
+| Financial Modeling | Excel (Advanced) & Google Sheets | Critical Thinking |
+| Project Management | CRM (e.g., Salesforce, HubSpot) | Collaboration |
 
 ---
-
-
-
 
 
 ## 📊 My Professional Dashboard
