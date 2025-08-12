@@ -59,15 +59,15 @@ I'm Pursuing **B.Tech** in **Computer Science Engineering at IIIT Manipur** with
 
 ## 🔥 My Skillset
 
-| Business & Strategy | Technical & Tools | Soft Skills |
+| **Business & Strategy** | **Technical & Tools** | **Soft Skills** |
 |---|---|---|
-| Market Research | SQL (MySQL) | Leadership |
-| Strategic Planning | Python (Pandas, NumPy) | Public Speaking |
-| Business Analysis | Business Intelligence (Tableau, Power BI) | Adaptability |
-| Financial Modeling | Excel (Advanced) & Google Sheets | Critical Thinking |
-| Project Management | CRM (e.g., Salesforce, HubSpot) | Collaboration |
+| ![Market Research](https://img.shields.io/badge/Market%20Research-FFB703?style=for-the-badge&logo=google&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL%20(MySQL)-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![Leadership](https://img.shields.io/badge/Leadership-8E44AD?style=for-the-badge&logo=leader&logoColor=white) |
+| ![Strategic Planning](https://img.shields.io/badge/Strategic%20Planning-219EBC?style=for-the-badge&logo=target&logoColor=white) | ![Python](https://img.shields.io/badge/Python%20(Pandas,%20NumPy)-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Public Speaking](https://img.shields.io/badge/Public%20Speaking-F39C12?style=for-the-badge&logo=microphone&logoColor=white) |
+| ![Business Analysis](https://img.shields.io/badge/Business%20Analysis-023047?style=for-the-badge&logo=graph&logoColor=white) | ![BI Tools](https://img.shields.io/badge/Tableau,%20Power%20BI-E97627?style=for-the-badge&logo=tableau&logoColor=white) | ![Adaptability](https://img.shields.io/badge/Adaptability-4CAF50?style=for-the-badge&logo=leaflet&logoColor=white) |
+| ![Financial Modeling](https://img.shields.io/badge/Financial%20Modeling-6A4C93?style=for-the-badge&logo=money&logoColor=white) | ![Excel](https://img.shields.io/badge/Excel%20(Advanced),%20Google%20Sheets-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) | ![Critical Thinking](https://img.shields.io/badge/Critical%20Thinking-FF6F61?style=for-the-badge&logo=brain&logoColor=white) |
+| ![Project Management](https://img.shields.io/badge/Project%20Management-14213D?style=for-the-badge&logo=trello&logoColor=white) | ![CRM](https://img.shields.io/badge/CRM%20(Salesforce,%20HubSpot)-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white) | ![Collaboration](https://img.shields.io/badge/Collaboration-FFB703?style=for-the-badge&logo=handshake&logoColor=white) |
 
----
+----
 
 
 ## 📊 My Professional Dashboard
