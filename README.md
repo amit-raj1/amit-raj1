@@ -100,21 +100,6 @@ A data-driven overview of my coding habits, technical skills, and commitment to 
   </a>
 </p>
 
-<p align="center">
-  <!-- GitHub Streak -->
-  <a href="https://streak-stats.demolab.com">
-    <img src="https://streak-stats.demolab.com?user=amit-raj1&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
-  </a>
-</p>
-
-<p align="center">
-  <!-- GitHub Trophies -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=amit-raj1&theme=tokyonight&row=1&margin-w=20&margin-h=20&no-bg=true&no-frame=true" alt="GitHub Trophies" />
-  </a>
-</p>
-
----
 
 ### 🔹 GitHub Trophies
 <p align="center">
