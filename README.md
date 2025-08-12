@@ -82,18 +82,20 @@ A data-driven overview of my coding habits, technical skills, and commitment to 
   </a>
 </p>
 
+
+## 📊 GitHub Stats:
+
 <p align="center">
-  <!-- Top Languages -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit-raj1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-  </a>
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=amit-raj1&show_icons=true&count_private=true&theme=radical&hide_border=true" alt="GitHub Stats" height="170" />
+  
+  <!-- GitHub Streak Card -->
+  <img src="https://streak-stats.demolab.com?user=amit-raj1&theme=radical&hide_border=true" alt="GitHub Streak" height="170" />
 </p>
 
-
-### 🔹 GitHub Trophies
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=amit-raj1&theme=tokyonight&row=1&margin-w=20&margin-h=20" alt="GitHub Trophies"/>
-  </a>
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit-raj1&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" height="150" />
 </p>
+
 
