@@ -86,30 +86,31 @@ Here are a few projects where I've applied my skills. *(Note: These are template
 ## 📊 My Professional Dashboard
 A data-driven overview of my coding habits, technical skills, and commitment to the craft.
 
----
-
-### 🔹 GitHub Activity Graph
 <p align="center">
+  <!-- Activity Graph -->
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=amit-raj1&theme=tokyonight&hide_border=true&area=true" alt="Amit's GitHub Activity Graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=amit-raj1&bg_color=0d1117&color=70a5fd&line=38bdae&point=f4d03f&area=true&hide_border=true" alt="GitHub Activity Graph" />
   </a>
 </p>
 
----
-
-### 🔹 Most Used Languages
 <p align="center">
+  <!-- Top Languages -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit-raj1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit-raj1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
   </a>
 </p>
 
----
-
-### 🔹 GitHub Streak
 <p align="center">
+  <!-- GitHub Streak -->
   <a href="https://streak-stats.demolab.com">
-    <img src="https://streak-stats.demolab.com?user=amit-raj1&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+    <img src="https://streak-stats.demolab.com?user=amit-raj1&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  </a>
+</p>
+
+<p align="center">
+  <!-- GitHub Trophies -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=amit-raj1&theme=tokyonight&row=1&margin-w=20&margin-h=20&no-bg=true&no-frame=true" alt="GitHub Trophies" />
   </a>
 </p>
 
