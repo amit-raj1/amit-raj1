@@ -63,7 +63,7 @@ A data-driven overview of my coding habits, technical skills, and commitment to 
 
 <p align="center">
   <a href="https://github.com/amit-raj1">
-    <img src="https://activity-graph.herokuapp.com/graph?username=amit-raj1&theme=tokyonight&hide_border=true&area=true" alt="Amit's GitHub Activity Graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=amit-raj1&theme=tokyo-night&hide_border=true&area=true" alt="Amit's GitHub Activity Graph"/>
   </a>
 </p>
 
@@ -80,7 +80,6 @@ A data-driven overview of my coding habits, technical skills, and commitment to 
       </a>
     </td>
   </tr>
-  <tr>
     <td colspan="2" align="center">
       <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=amit-raj1&theme=tokyonight&row=1&margin-w=20&margin-h=20" alt="GitHub Trophies"/>
