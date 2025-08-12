@@ -100,7 +100,7 @@ A data-driven overview of my coding habits, technical skills, and commitment to 
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+      <a href="https://github.com/amit-raj1">
         <img src="https://streak-stats.demolab.com/?user=amit-raj1&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
       </a>
     </td>
