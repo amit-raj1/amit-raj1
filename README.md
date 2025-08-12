@@ -11,33 +11,6 @@ I'm Pursuing **B.Tech** in **Computer Science Engineering at IIIT Manipur** with
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amitrajiiitian@gmail.com)
 
 ---
-
-## 💼 Professional Experience
-
-### 🛡 Cybersecurity Intern – CDAC Noida *(Remote)*
-*Aug 2024 – Oct 2024*
-- Analyzed memory dumps and disk images for malware patterns using **FTK Imager**, **Volatility**, and **Wireshark**.
-- Recovered encrypted files from ransomware attacks, reducing potential data loss by **70%**.
-- Suggested preventive measures improving mitigation response time by **30%**.
-
-### 💻 Software Development Engineer Intern – Bluestock Fintech *(Remote)*
-*Jun 2025 – Jul 2025*
-- Developed a new feature for the IPO application platform used by investors.
-- Built **RESTful APIs** for real-time IPO data and application submissions.
-- Collaborated with product & QA teams to ensure high functionality and reliability.
-
----
-
-
-## 🎯 Core Areas of Interest
-
-📈 **Business Development:** Building strategic partnerships, identifying new growth opportunities, and fostering client relationships.
-📊 **Data Analysis:** Translating raw data into actionable business insights to inform strategic decisions.
-💡 **Market Strategy:** Analyzing market trends, competitive landscapes, and customer behavior to develop go-to-market plans.
-💰 **Finance & Technology:** Exploring FinTech innovations, financial modeling, and investment strategies.
-
----
-
 ## 🔥 My Skillset
 
 | Business & Strategy | Technical & Tools | Soft Skills |
@@ -50,6 +23,56 @@ I'm Pursuing **B.Tech** in **Computer Science Engineering at IIIT Manipur** with
 
 ---
 
+
+
+
+## 💻 Tech Stack:
+
+<p align="center">
+
+<!-- Languages -->
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white" />
+
+<!-- Tools & Platforms -->
+<img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
+
+<!-- Frameworks & Libraries -->
+<img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+
+<!-- Servers & Databases -->
+<img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" />
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
+<!-- Other Tools -->
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+
+</p>
+
+
+
+
 ## 🚀 My Approach
 🧩 **Analytical Problem-Solving:** Applying a data-driven mindset to deconstruct complex business challenges.
 📚 **Continuous Learning:** Actively keeping up with industry trends in technology, finance, and marketing.
@@ -57,29 +80,7 @@ I'm Pursuing **B.Tech** in **Computer Science Engineering at IIIT Manipur** with
 
 ---
 
-## 📈 Projects & Case Studies
 
-Here are a few projects where I've applied my skills. *(Note: These are templates—replace them with your actual project details!)*
-
-### 📊 Power BI Dashboards *(Apr – Jun)*
-- Created dashboards for **Adidas Sales**, **Air Quality**, **E-commerce**, **Loan Analysis**, and more  
-- Integrated multiple data sources (**Excel**, **SQL**) with **Power Query** transformations  
-- Designed **custom KPIs**, **DAX measures**, and interactive drill-throughs  
-- Delivered actionable insights improving decision-making
-
-### 🛒 Grocery Web App *(Jun – Aug)*
-- Developed **full-stack grocery management app** with Python/Flask & MySQL  
-- Added product module with **edit & UOM features**  
-- Implemented **JavaScript form validation** and fixed grand total calculation bug  
-
----
-
-
-## 📜 Certifications
-- **Data Analytics and Visualization Job Simulation** – Forage  
-- **Python Analytics with Python** – IIT Roorkee  
-
----
 
 
 
