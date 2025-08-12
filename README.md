@@ -1,6 +1,6 @@
 ### Driving Business Growth with Data-Driven Strategy
 
-I'm a **B.Tech Computer Science student at IIIT Manipur** with a passion for leveraging technology to solve complex business problems. My core strength lies at the intersection of data analysis, market strategy, and business development. I am driven by a desire to translate raw data into actionable insights, build meaningful client relationships, and contribute to a company's bottom line.
+I'm Pursuing **B.Tech** in **Computer Science Engineering at IIIT Manipur** with a passion for leveraging technology to solve complex business problems. My core strength lies at the intersection of data analysis, market strategy, and business development. I am driven by a desire to translate raw data into actionable insights, build meaningful client relationships, and contribute to a company's bottom line.
 
 **I'm Seeking:** for internship or full-time opportunities where I can apply my analytical and strategic skills in roles such as **Business Analyst**, **Data Analyst**, **Business Development Associate**, or **Marketing Analyst**.
 
