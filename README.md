@@ -98,4 +98,12 @@ A data-driven overview of my coding habits, technical skills, and commitment to 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit-raj1&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" height="150" />
 </p>
 
+------
+
+### 🔹 GitHub Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=amit-raj1&theme=tokyonight&row=1&margin-w=20&margin-h=20" alt="GitHub Trophies"/>
+  </a>
+</p>
 
