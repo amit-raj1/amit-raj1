@@ -11,21 +11,6 @@ I'm Pursuing **B.Tech** in **Computer Science Engineering at IIIT Manipur** with
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amitrajiiitian@gmail.com)
 
 ---
-## 🔥 My Skillset
-
-| Business & Strategy | Technical & Tools | Soft Skills |
-|---|---|---|
-| Market Research | SQL (MySQL) | Leadership |
-| Strategic Planning | Python (Pandas, NumPy) | Public Speaking |
-| Business Analysis | Business Intelligence (Tableau, Power BI) | Adaptability |
-| Financial Modeling | Excel (Advanced) & Google Sheets | Critical Thinking |
-| Project Management | CRM (e.g., Salesforce, HubSpot) | Collaboration |
-
----
-
-
-
-
 ## 💻 Tech Stack:
 
 <p align="center">
@@ -69,6 +54,18 @@ I'm Pursuing **B.Tech** in **Computer Science Engineering at IIIT Manipur** with
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 
 </p>
+
+---
+
+## 🛠 Technical & Tools
+
+| Technical & Tools |
+|-------------------|
+| SQL (MySQL) |
+| Python (Pandas, NumPy) |
+| Business Intelligence (Tableau, Power BI) |
+| Excel (Advanced) & Google Sheets |
+| CRM (e.g., Salesforce, HubSpot) |
 
 
 
