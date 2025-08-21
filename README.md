@@ -70,19 +70,6 @@ I'm Pursuing **B.Tech** in **Computer Science Engineering at IIIT Manipur** with
 | ![Project Management](https://img.shields.io/badge/Project%20Management-14213D?style=for-the-badge&logo=trello&logoColor=white) | ![CRM](https://img.shields.io/badge/CRM%20(Salesforce,%20HubSpot)-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white) | ![Collaboration](https://img.shields.io/badge/Collaboration-FFB703?style=for-the-badge&logo=handshake&logoColor=white) |
 
 
-
-
-## 📊 My Professional Dashboard
-A data-driven overview of my coding habits, technical skills, and commitment to the craft.
-
-<p align="center">
-  <!-- Activity Graph -->
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=amit-raj1&bg_color=0d1117&color=70a5fd&line=38bdae&point=f4d03f&area=true&hide_border=true" alt="GitHub Activity Graph" />
-  </a>
-</p>
-
-
 ## 📊 GitHub Stats:
 
 <p align="center">
